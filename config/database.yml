@@ -17,7 +17,7 @@ development:
 test:
     adapter: postgresql
     username: mlee
-    database: rails
+    database: rails-test
     host: localhost
     pool: 5
     timeout: 5000
